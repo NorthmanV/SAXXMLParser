@@ -1,0 +1,16 @@
+<books>
+    <book>
+        <title>Harry Potter</title>
+        <author>
+            <name>J. Rowling</name>
+            <country>England</country>
+        </author>
+    </book>
+    <book>
+        <title>Anna Karenina</title>
+        <author>
+            <name>L. Tolstoy</name>
+            <country>Russia</country>
+        </author>
+    </book>
+</books>
